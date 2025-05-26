@@ -26,7 +26,6 @@ EcoTrack revolutionizes community waste management by combining **AI-powered sor
 - **Points & Rewards**: Earn points for reports, sorting, and participation
 - **Achievement Badges**: Unlock badges for environmental milestones
 - **Leaderboards**: Community challenges and friendly competition
-- **Confetti Celebrations**: Celebrate every waste report with joy! 🎉
 
 ### 📱 **Community Reporting System**
 - **One-tap Reporting**: Quick waste issue reporting with GPS location
@@ -102,7 +101,6 @@ ecotrack-waste-management/
 
 
 ### **Visual Patterns**
-- **Aztec Pattern**: Geometric tribal-inspired backgrounds
 - **Organic Pattern**: Natural, flowing environmental themes
 - **Geometric Pattern**: Modern, tech-focused layouts
 - **Wave Pattern**: Subtle texture for visual interest
@@ -209,7 +207,7 @@ Comprehensive data insights for administrators:
 
 ---
 
-## 🧪 **Testi
+## 🧪 **Testing
 
 ### **Key Test Scenarios**
 - ✅ Waste report submission and validation
@@ -299,13 +297,13 @@ EcoTrack is built as a full-featured PWA:
 - [x] AI waste sorting assistant
 - [x] IoT dashboard integration
 - [x] Gamification and points system
-- [x] Dark mode support
 - [x] Admin dashboard
 - [x] Community features
 
 ### **Phase 2: Enhanced Features** 🚧 In Progress
 - [ ] **User Authentication**: Secure login with Supabase
 - [ ] **Real-time Notifications**: Push notifications for alerts
+- [ ] Dark mode support
 - [ ] **Mobile App**: React Native version
 - [ ] **Advanced AI**: Enhanced image recognition
 - [ ] **Multi-language**: i18n support
